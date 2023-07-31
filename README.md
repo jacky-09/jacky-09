@@ -11,10 +11,5 @@
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&&layout=compact" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=frostming&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostming&theme=dracula&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true" />
 </p>
