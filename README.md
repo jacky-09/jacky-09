@@ -10,6 +10,6 @@
 </div>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&layout=compact" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&layout=compact" />
 </p>
