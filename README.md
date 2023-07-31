@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">🌭 Jackyfzh 🚩</h1>
 
-<!--
-**jacky-09/jacky-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Static Badge](https://img.shields.io/badge/blog-Jacky-red?style=for-the-badge&logo=rss&logoColor=red)](https://jackyfzh.github.io)
+![Static Badge](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Java-17-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Vue-js-brightgreen?style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&&layout=compact" />
+</p>
+<div align="center">
