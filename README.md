@@ -9,7 +9,10 @@
 
 </div>
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&layout=compact)
+
+<!--p align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&layout=compact" />
-</p>
+</p-->
