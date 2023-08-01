@@ -10,7 +10,7 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-09&show_icons=true)
 
 <!--p align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=jacky-09&show_icons=true" />
